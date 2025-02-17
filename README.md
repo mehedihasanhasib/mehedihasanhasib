@@ -3,7 +3,7 @@
 I am a passionate software developer with a keen interest in web development. I love exploring new technologies and continuously improving my skill set. 
 
 ## 🔭 What I'm currently working on
-- Building scalable web applications using modern technologies like Laravel, PHP, Node.js.
+- Building scalable web applications using modern technologies like Laravel, PHP, JavaScript, Node.js.
 
 ## 🌱 What I'm currently learning
 - Advanced concepts in cloud computing and microservices architecture.
