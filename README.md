@@ -11,12 +11,12 @@ I am a passionate software developer with a keen interest in web development. I 
 - Experimenting with AI and machine learning frameworks.
 
 ## 💬 Ask me about
-- JavaScript, TypeScript, and modern web development frameworks.
+- PHP, Laravel, JavaScript and modern web development frameworks.
 - Cloud services and how to architect scalable applications.
 - Best practices in software development and code reviews.
 
 ## 📫 How to reach me
-- Email: mehedihasanhasib@example.com
+- Email: contact@hasib.info
 - LinkedIn: [Mehedi Hasan Hasib](https://www.linkedin.com/in/mehedihasanhasib)
 - GitHub: [mehedihasanhasib](https://github.com/mehedihasanhasib)
 
