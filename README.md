@@ -3,12 +3,11 @@
 I am a passionate software developer with a keen interest in web development. I love exploring new technologies and continuously improving my skill set. 
 
 ## 🔭 What I'm currently working on
-- Building scalable web applications using modern technologies like Laravel, PHP, JavaScript, Node.js.
+- Building scalable web applications using modern technologies like Laravel, PHP, JavaScript, InertisJs, VueJs, NuxtJs.
 
 ## 🌱 What I'm currently learning
 - Advanced concepts in cloud computing and microservices architecture.
 - Enhancing my knowledge of DevOps practices and tools like Docker, Kubernetes, and CI/CD pipelines.
-- Experimenting with AI and machine learning frameworks.
 
 ## 💬 Ask me about
 - PHP, Laravel, JavaScript and modern web development frameworks.
@@ -16,12 +15,9 @@ I am a passionate software developer with a keen interest in web development. I 
 - Best practices in software development and code reviews.
 
 ## 📫 How to reach me
-- Email: contact@hasib.info
+- Email: mehedi.mh50@gmail.com
 - LinkedIn: [Mehedi Hasan Hasib](https://www.linkedin.com/in/mehedihasanhasib)
 - GitHub: [mehedihasanhasib](https://github.com/mehedihasanhasib)
-
-## ⚡ Fun fact
-- I love playing chess and enjoy solving complex puzzles in my free time.
 
 ## GitHub Stats
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihasanhasib&show_icons=true&theme=radical)
